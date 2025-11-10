@@ -10,7 +10,7 @@
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
 📄 <a href="exam2101.pdf" target="_blank">ข้อสอบ exam</a>
-📄 <a href="GH2101.pdf" target="_blank">ผลการเรียนทั้งระดับชั้น open score all section</a>
+<br>📄 <a href="GH2101.pdf" target="_blank">ผลการเรียนทั้งระดับชั้น open score all section</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">อธิบายการทำงาน</h2>
